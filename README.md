@@ -37,6 +37,8 @@ To use the Password Generator, follow these steps:
 -    https://dev.to/code_mystery/random-password-generator-using-javascript-6a
 -    https://forum.codewithmosh.com/t/creating-a-password-generator-using-javascript/18971
 -    https://webdesign.tutsplus.com/build-a-configurable-random-password-generator-with-javascript--cms-93262t
+-    git@github.com:Domj1204/advanced-pwd-gen.git
+-    git@git.bootcampcontent.com:University-of-Texas-at-Austin/UTA-VIRT-FSF-PT-10-2023-U-LOLC.git
 
 ## Features
 - Customizable password length (between 8 and 128 characters).
