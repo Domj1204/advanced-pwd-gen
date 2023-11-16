@@ -5,6 +5,8 @@ This password generator is a JavaScript-based web application that allows users 
 
 The project includes a clean and polished user interface that is responsive and adapts seamlessly to various screen sizes. It follows best practices in user experience design, ensuring a straightforward and intuitive user journey.
 
+Here is the link to the deployed website: https://domj1204.github.io/advanced-pwd-gen/
+
 ## Table of Contents
 
 - [Key Objective](#key-objective)
