@@ -27,11 +27,14 @@ To use the Password Generator, follow these steps:
 4. Ensure that at least one character type is selected.
 5. Once all prompts are answered, a secure password will be generated and displayed on the page.
 
+![Alt text](<images/Screenshot 2023-11-16 at 12.34.23 PM.png>)
+![Alt text](<images/Screenshot 2023-11-16 at 12.32.38 PM.png>)
+
 # Credits
-https://stackoverflow.com/questions/75166534/how-do-i-use-a-loop-to-pick-random-characters-from-an-array
-https://dev.to/code_mystery/random-password-generator-using-javascript-6a
-https://forum.codewithmosh.com/t/creating-a-password-generator-using-javascript/18971
-https://webdesign.tutsplus.com/build-a-configurable-random-password-generator-with-javascript--cms-93262t
+-    https://stackoverflow.com/questions/75166534/how-do-i-use-a-loop-to-pick-random-characters-from-an-array
+-    https://dev.to/code_mystery/random-password-generator-using-javascript-6a
+-    https://forum.codewithmosh.com/t/creating-a-password-generator-using-javascript/18971
+-    https://webdesign.tutsplus.com/build-a-configurable-random-password-generator-with-javascript--cms-93262t
 
 ## Features
 - Customizable password length (between 8 and 128 characters).
